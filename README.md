@@ -8,7 +8,8 @@ I have an old 2-Core CPU, this can be also easily extended for CPUs with more co
 ## Screenshot
 ![alt text](https://github.com/amadorpozo/conky_config_files/blob/edit-readme/screenshot_conky_pozo.png "Conky screenshot")
 ## Other Ubuntu relevant configs
-```$ pwd
+```
+$ pwd
 /home/$USER/.conky
 
 $ cat conky-startup.sh 
